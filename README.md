@@ -2,7 +2,8 @@
 
 A archive of the original rockstargames.com/gtalondon website by Rockstar Games
 
-## The original audio files are lost media the ones on the website are just the radio stations from the game they originaly linked to some kind of video stream
+## The original audio files are lost they link to some kind of video stream that never got archived
+## IF YOU HAVE THESE FILES OR KNOW WHERE TO GET THEM PLEASE CONTACT ME
 
 ## Website: https://the-rg-archive.github.io/rockstargames.com-gtalondon/
 
